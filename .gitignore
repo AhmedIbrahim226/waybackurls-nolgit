@@ -1,0 +1,7 @@
+waybackurls
+*.swp
+*.tgz
+*.zip
+*.exe
+main_test.go
+options_test.go

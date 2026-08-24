@@ -1,0 +1,7 @@
+
+
+Install:
+
+```
+▶ go install github.com/AhmedIbrahim226/waybackurls-nolgit@latest
+```
