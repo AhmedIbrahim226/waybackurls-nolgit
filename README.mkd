@@ -3,5 +3,5 @@
 Install:
 
 ```
-▶ go install github.com/AhmedIbrahim226/waybackurls-nolgit@latest
+▶ go install github.com/AhmedIbrahim226/waybackurlsV2@latest
 ```
